@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="widht=device-width; user-scalable=no">
+    <meta name="author" content="Pedro Cervantes">
+    <meta name="description" content="Evaluacion Final Fundamentos HTML5">
+    <title>Educación</title>
+  </head>
+  <body>
+    <header>
+      <svg width="160" height="160" vieBox= 0 0 160 160>
+        <image width="500" height="500" xlink:href=../img/logo.svg></image>
+      </svg>
+      <h1>Hoja de Vida</h1>
+        <h2>Datos Personales</h2>
+          <h3>Pedro Cervantes Hernández</h3>
+          <h3>Fecha de Nacimiento: 07/07/1980 en la Ciudad del Grullo Jalisco</h3></br>
+    </header>
+    <nav>
+      <a href="../index.html">Datos Personales</a> | <a href="../html/experiencia.html">Experiencia</a>
+    </nav>
+    <section>
+      <h2>Educación</h2>
+      <table border="1" cellpadding="4" cellspacing="0">
+        <thead>
+          <tr>
+            <th> Año </th>
+            <th> Institución </th>
+            <th> Lugar </th>
+            <th> Culminó? </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td> 2016 </td>
+            <td> Tecnológico de BC </td>
+            <td> Tijuana Baja California </td>
+            <td> Diplomado Administracion de Proyectos </td>
+          </tr>
+          <tr>
+            <td> 2015 </td>
+            <td> UABC </td>
+            <td> Tecate Baja California </td>
+            <td> Curso de Ingles </td>
+          </tr>
+          <tr>
+            <td> 2014 </td>
+            <td> Canacintra </td>
+            <td> Tijuana Baja California </td>
+            <td> Sueldos y Salarios </td>
+          </tr>
+        </tbody>
+      </table>
+      <form name="Add_Estudios"autocomplete="on">
+        <h1>Agregar Estudios</h1>
+        <p>
+          <label for="año">Año: </label>
+          <select name="año">
+            <option>2015</option>
+            <option>2016</option>
+            <option>2017</option>
+            <option>2018</option>
+          </select>
+        </p>
+        <p>
+          <label for="institucion">Institución: </label>
+          <input type="text" id="institucion" placeholder="Nombre de instituto" required>
+        </p>
+        <p>
+          <label for="lugar">Lugar</label>
+          <textarea id="lugar" rows="3" cols="30" placeholder="Ingresa la localidad"></textarea>
+        </p>
+        <input type="submit" id="enviar" value="Enviar">
+      </form>
+    </section>
+    <footer>
+    </br>
+      <strong>Información de contacto</strong></br>
+      <a href="mailto:pedro.ceher@gmail.com?subject=contacto">pedro.ceher@gmail.com</a> | Celular: 664-7587337 | Dirección: Tijuana Baja California, México
+    </footer>
+  </body>
+</html>

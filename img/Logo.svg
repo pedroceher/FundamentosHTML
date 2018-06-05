@@ -1,0 +1,18 @@
+<svg width="640" height="479.99999999999994" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <title>Logo</title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <circle stroke="#000000" id="svg_11" r="56.5" cy="57.500001" cx="57.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ff0000"/>
+  <circle stroke="#000000" id="svg_13" r="40.302876" cy="61.000001" cx="71.000001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffffff"/>
+  <text stroke="#000000" transform="matrix(1.0976800918579102,0,0,1.1894612312316895,-13.757630437612534,-23.034341253340244) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_15" y="80.396965" x="76.737486" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff0000">PCH</text>
+  <circle stroke="#000000" id="svg_17" r="5.944273" cy="56.000001" cx="17.000001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffffff"/>
+  <circle id="svg_18" stroke="#000000" r="5.944273" cy="16.999985" cx="45.000001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffffff"/>
+  <circle id="svg_19" stroke="#000000" r="5.944273" cy="100.999985" cx="39.000001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffffff"/>
+ </g>
+</svg>
